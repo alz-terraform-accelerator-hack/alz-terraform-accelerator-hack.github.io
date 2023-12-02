@@ -1,8 +1,8 @@
-# Best practices for deploying Infrastructure as Code with GitHub or Azure DevOps
+# Best practices for deploying Infrastructure as Code with GitHub or Azure DevOps - Apps and Innovation
 
 ## Introduction
 
-This hack will utilise the [alz-terraform-accelerator](https://github.com/Azure/alz-terraform-accelerator) to instantiate a secure DevOps process for deploying Infrastructure as Code (IaC) with GitHub or Azure DevOps. The hack will also demonstrate how to deploy a secure CI/CD pipeline for deploying IaC with GitHub or Azure DevOps, lock down the pipeline to only allow approved changes to be deployed, and more.
+This hack will utilize the [alz-terraform-accelerator](https://github.com/Azure/alz-terraform-accelerator) to instantiate a secure DevOps process for deploying Infrastructure as Code (IaC) with GitHub or Azure DevOps. The hack will also demonstrate how to deploy a secure CI/CD pipeline for deploying IaC with GitHub or Azure DevOps, lock down the pipeline to only allow approved changes to be deployed, and more.
 
 ## Learning Objectives
 
@@ -18,6 +18,7 @@ This hack will utilise the [alz-terraform-accelerator](https://github.com/Azure/
 - **[Challenge 01](./challenge-01.md)**
 - **[Challenge 02](./challenge-02.md)**
 - **[Challenge 03](./challenge-03.md)**
+- **[Challenge 04](./challenge-04.md)**
 
 ## Prerequisites
 

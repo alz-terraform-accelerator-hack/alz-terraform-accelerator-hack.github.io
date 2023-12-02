@@ -1,8 +1,8 @@
-# Best practices for deploying Infrastructure as Code with GitHub or Azure DevOps
+# Best practices for deploying Infrastructure as Code with GitHub or Azure DevOps - Infra
 
 ## Introduction
 
-This hack will utilise the [alz-terraform-accelerator](https://github.com/Azure/alz-terraform-accelerator) to instantiate a secure CI/CD process for deploying the ALZ on Terraform with GitHub or Azure DevOps.
+This hack will utilize the [alz-terraform-accelerator](https://github.com/Azure/alz-terraform-accelerator) to instantiate a secure CI/CD process for deploying the ALZ on Terraform with GitHub or Azure DevOps.
 
 - Understand the alz-terraform-accelerator.
 - Discover how to deploy a secure CI/CD pipeline for deploying the ALZ with GitHub or Azure DevOps.
