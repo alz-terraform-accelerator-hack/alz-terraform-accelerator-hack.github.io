@@ -1,6 +1,6 @@
 # Best practices for deploying Infrastructure as Code with GitHub or Azure DevOps
 
-Welcome to the hack! You have given a choice of two paths to take. The first is geared towards **Infrastructure** and the second is aimed at **Digital and App Innovation**. Please choose the path that best suits your interested:
+Welcome to the hack! You have given a choice of two paths to take. The first is geared towards **Infrastructure** and the second is aimed at **Digital and App Innovation**. Please choose the path that best suits your interests:
 
 <div style="display:flex;"> 
     <div style="flex: 1;">
