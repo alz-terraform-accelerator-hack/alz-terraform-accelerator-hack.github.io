@@ -5,16 +5,16 @@ Welcome to the hack! We have given you a choice of two paths to take. The first 
 <div style="display:flex;"> 
     <div style="flex: 1;">
         <a href="apps/introduction.md">
-            Infrastructure CSA - I want to accelerate the ALZ delivery with a secure CI/CD pipeline.
+            <H2>Infrastructure CSA</H2>
+            <img src="images/infra.jpg">
+            <H3>I want to accelerate the ALZ delivery with a secure CI/CD pipeline.</H3>
         </a>
     </div>
     <div style="flex: 1;">
         <a href="infra/introduction.md">
-            Apps and Innovation CSA - I want to learn about secure DevOps processes in GitHub and Azure DevOps.
+            <H2>Apps and Innovation CSA</H2>
+            <img src="images/apps.jpg">
+            <H3>I want to learn about secure DevOps processes in GitHub and Azure DevOps.</H3>
         </a>
     </div>
 </div>
-
-## [Infrastructure CSA - I want to accelerate the ALZ delivery with a secure CI/CD pipeline.](infra/introduction.md)
-
-## [Apps and Innovation CSA - I want to learn about secure DevOps processes in GitHub and Azure DevOps.](apps/introduction.md)
