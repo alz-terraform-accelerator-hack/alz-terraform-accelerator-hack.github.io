@@ -11,9 +11,17 @@ In this challenge you will repeat Challenge 01 by re-deploying the alz-terraform
 - Successfully run the ALZ PowerShell Module, with `starter_module` set as ".test" (Note: ".test" does not exist in the documentation, but it is a valid starter_module that is not related to the ALZ.)
   - Ensure that before you run the Workflow, somebody reviews the Terraform apply at runtime.
   - Ensure that you are using OpenID Connect (OIDC) for authentication.
-  - Validate all artifacts have been deployed: Repos (GH), Storage Account(Azure), Pipelines(GH), Identities(Azure).
+  - Validate all artifacts have been deployed: Repos (GH), Storage Account(Azure), Actions(GH), Identities(Azure).
 
 - Deploy the infrastructure in your main repo using the deploy Workflow.
+
+- Review the CI / CD templates in the templates repository and answer the following questions:
+  - What is the purpose of the `concurrency` setting in the context of Terraform?
+  - What two features does using the `environment` field provide?
+
+- Review the User Assigned Managed Identities in Azure and answer the following questions:
+  - What do the Federated Credentials `subject` fields represent?
+  - Specifically, what does the `job_workflow_ref` key / value represent?
 
 - Branch off main in the repo containing the terraform code and make a change (e.g. up the `length` input in `random_string` to 11). Then open a Pull Request into main and verify that the Validation Pipeline runs. Once merged verify that the Deployment Pipeline runs.
 

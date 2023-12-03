@@ -15,6 +15,14 @@ In this challenge you will deploy the alz-terraform-accelerator using the Azure 
 
 - Deploy the infrastructure in your main repo using Azure Pipelines.
 
+- Review the Service Connections in Azure DevOps, navigate to the `Approval and checks` tab and answer the following questions:
+  - What is the purpose of the `Exclusive lock` in the context of Terraform?
+  - What does the `Required template` check do?
+  - How does the `Approvals` check work?
+
+- Review the User Assigned Managed Identities in Azure and answer the following questions:
+  - What do the Federated Credentials `subject` fields represent?
+
 - Branch off main in the repo containing the terraform code and make a change (e.g. up the `length` input in `random_string` to 11). Then open a Pull Request into main and verify that the Validation Pipeline runs. Once merged verify that the Deployment Pipeline runs.
 
 ## Resources
