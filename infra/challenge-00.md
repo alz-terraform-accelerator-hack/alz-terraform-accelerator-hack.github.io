@@ -4,11 +4,11 @@
 
 ## Description
 
-In this initial challenge you will be tasked with understanding how the accelerator works and how to deploy it. It is worth while covering the entirety of the Wiki to understand the different options and edge cases that are available to you.
+In this initial challenge you will be tasked with understanding how the accelerator works and how to deploy it. It is valuable to review the entire contents of the Wiki to understand the different options and edge cases that are available to you.
 
 ## Success Criteria
 
-- You have read the entire alz-terraform-accelerator Wiki.
+- You have understood the contents of the alz-terraform-accelerator Wiki, in particular where to find the Quick Start and Frequently Asked Questions.
 - (Optional) you have re-familiarized yourself with best practices when securing Azure Pipelines.
 - (Optional) you have re-familiarized yourself with best practices when securing GitHub Actions.
 - You have decided which Version Control System (VCS) you will be using for this challenge.

@@ -4,7 +4,7 @@
 
 ## Description
 
-In this challenge, we will be leaning on the benefits of using Terraform by cleanly removing precisely what we deployed in the previous challenge. This includes the ALZ Environment in Azure, and all the artifacts deployed by the alz-terraform-accelerator.
+In this challenge, we will be learning the benefits of using Terraform by cleanly removing precisely what we deployed in the previous challenge. This includes the ALZ Environment in Azure, and all the artifacts deployed by the alz-terraform-accelerator.
 
 ## Success Criteria
 

@@ -8,7 +8,7 @@ This hack will utilize the [alz-terraform-accelerator](https://github.com/Azure/
 - Discover how to deploy a secure CI/CD pipeline for deploying the ALZ with GitHub or Azure DevOps.
 - Understand best practices in keeping your code base secure.
 - Learn about existing GitHub and Azure DevOps features that will secure your pipelines.
-- Learn about the various ways to authenticate to Azure through a remote agent.
+- Learn about the various ways to authenticate to Azure from a CD pipeline.
 
 ## Challenges
 
